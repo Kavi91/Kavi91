@@ -1,4 +1,4 @@
-- Hello! 👋 I'm Kavinda Rathnayaka, a passionate Master's student specializing in Autonomous Systems at the University of Oulu, Finland. My academic journey has taken me through the intricate realms of embedded software development, IoT projects, and machine learning, blending hands-on experience with a robust theoretical foundation.
+Hello! 👋 I'm Kavinda Rathnayaka, a passionate Master's student specializing in Autonomous Systems at the University of Oulu, Finland. My academic journey has taken me through the intricate realms of embedded software development, IoT projects, and machine learning, blending hands-on experience with a robust theoretical foundation.
 
 With a Bachelor's degree in Electronic and Telecommunication Engineering from the University of Moratuwa, Sri Lanka, and a Master's degree in Embedded Systems from Sheffield Hallam University in the UK, I've cultivated a diverse tech skill set. My thesis project on developing a Quadcopter with autonomous take-off and landing on a mobile robot platform sharpened my problem-solving skills and my proficiency in Python, OpenCV, and MATLAB.
 
