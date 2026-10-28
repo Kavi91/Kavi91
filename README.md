@@ -1,17 +1,24 @@
-# Kavinda Rathnayaka
+## Hi, I'm Kavinda 👋
 
-Robotics researcher at VTT Technical Research Centre of Finland, working on
-multi-drone autonomy: decentralised swarm algorithms, GNSS-denied navigation
-and learning-based sensor fusion, from simulation to real flight.
+I am a robotics and AI researcher. I work on making robots perceive, decide and act on
+their own, from mobile ground robots to drones and multi-robot swarms.
 
-**Focus areas:** ROS 2 · ArduPilot / PX4 · Gazebo · state estimation and VIO ·
-sensor fusion (camera, lidar, IMU) · PyTorch · embedded and edge AI
+My work covers the full stack of an autonomous system:
 
-**Selected work**
-- Nine-drone decentralised swarm: Gazebo + ArduPilot SITL digital twin to field demonstration
-- Learned multi-sensor odometry for UAVs (M.Sc. thesis, graded 5/5)
-- GNSS-denied swarm navigation with mesh networking and visual markers
+- **Robotics and autonomy:** mobile robots, drones and swarm intelligence, from simulation to real-world testing
+- **AI and machine learning:** training deep learning models for perception and navigation, and working with large language models
+- **Sensor fusion and state estimation:** combining cameras, lidar and IMU data so a robot knows where it is, even without GPS
+- **Machine vision:** object detection, depth and visual odometry, camera calibration
 
-**Currently:** VIO with OAK-D on edge hardware · modern C++ for ROS 2 · reinforcement learning
+What I enjoy most is connecting these parts into one system that works reliably outside the lab.
+Before research, I spent five and a half years in industrial automation, which taught me to build
+systems that are safe, well documented and easy for others to use.
 
-[LinkedIn](https://www.linkedin.com/in/kavinda-madhujith)
+I hold an M.Sc. in Autonomous Systems from the University of Oulu and an M.Eng. in
+Electrical and Electronic Engineering from Sheffield Hallam University.
+
+**Tools:** Python · C/C++ · ROS 2 · PyTorch · OpenCV · Gazebo · ArduPilot · Linux · Docker
+
+**Currently exploring:** reinforcement learning, vision-language-action models and real-time robotics in C++
+
+📫 [LinkedIn](https://www.linkedin.com/in/kavinda-madhujith)
