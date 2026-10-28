@@ -1,12 +1,17 @@
-Hello! 👋 I'm Kavinda Rathnayaka, a passionate Master's student specializing in Autonomous Systems at the University of Oulu, Finland. My academic journey has taken me through the intricate realms of embedded software development, IoT projects, and machine learning, blending hands-on experience with a robust theoretical foundation.
+# Kavinda Rathnayaka
 
-In my professional chapter, I've excelled as a Senior Executive Automated Systems Engineer, leading design, and development automation projects, underscoring my project management and strategic planning capabilities.
+Robotics researcher at VTT Technical Research Centre of Finland, working on
+multi-drone autonomy: decentralised swarm algorithms, GNSS-denied navigation
+and learning-based sensor fusion, from simulation to real flight.
 
-When I'm not delving into the depths of autonomous systems 👀, I enjoy mentoring and sharing my knowledge with aspiring engineers. Let's connect and collaborate on innovative projects that push the boundaries of technology!
+**Focus areas:** ROS 2 · ArduPilot / PX4 · Gazebo · state estimation and VIO ·
+sensor fusion (camera, lidar, IMU) · PyTorch · embedded and edge AI
 
+**Selected work**
+- Nine-drone decentralised swarm: Gazebo + ArduPilot SITL digital twin to field demonstration
+- Learned multi-sensor odometry for UAVs (M.Sc. thesis, graded 5/5)
+- GNSS-denied swarm navigation with mesh networking and visual markers
 
+**Currently:** VIO with OAK-D on edge hardware · modern C++ for ROS 2 · reinforcement learning
 
-<!---
-Kavi91/Kavi91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/kavinda-madhujith)
